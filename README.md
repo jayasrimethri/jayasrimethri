@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayasri Methri</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Detecting and Tracking Objects in a video stream**
+- 🔭  **Detecting and Tracking Objects in a video stream**
 
 - 🌱 I’m currently learning **DSA, Frontend**
 
