@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayasri Methri</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 My project on github is **Detecting and Tracking Objects in a video stream**
-
+- 🔭 My projects on github are
+      1.**Detecting and Tracking Objects in a video stream**
+      2.**Food ordering Through the Whatsapp**
 - 🌱 I’m currently learning **DSA, Frontend**
 
 - 💬 Ask me about **C++,PYTHON,JAVA, HTML,CSS,SQL**
