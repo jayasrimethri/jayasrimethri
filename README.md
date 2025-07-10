@@ -4,7 +4,8 @@
 - 🔭 My projects on github are
 1.**Detecting and Tracking Objects in a video stream**
 2.**Food ordering Through the Whatsapp**
-- 🌱 I’m currently learning **DSA, Frontend**
+3.**bad-posture-app**
+- 🌱 I’m currently learning **DSA, Fullstack**
 
 - 💬 Ask me about **C++,PYTHON,JAVA, HTML,CSS,SQL**
 
