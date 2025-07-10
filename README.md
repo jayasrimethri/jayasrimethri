@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayasri Methri</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<li>
-- 🔭 My projects on github are
-1.**Detecting and Tracking Objects in a video stream**
-2.**Food ordering Through the Whatsapp**
-3.**bad-posture-app**</li>
+<h2>My Projects on GitHub</h2>
+    <ul>
+        <li> <strong>Detecting and Tracking Objects in a video stream</strong></li>
+        <li> <strong>Food ordering Through the Whatsapp</strong></li>
+        <li> <strong>bad-posture-app</strong></li>
+    </ul>
 - 🌱 I’m currently learning **DSA, Fullstack**
 
 - 💬 Ask me about **C++,PYTHON,JAVA, HTML,CSS,SQL**
