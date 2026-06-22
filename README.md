@@ -3,12 +3,11 @@
 <h2>My Projects on GitHub</h2>
     <ul>
         <li> <strong>Detecting and Tracking Objects in a video stream</strong></li>
-        <li> <strong>Food ordering Through the Whatsapp</strong></li>
-        <li> <strong>bad-posture-app</strong></li>
+        <li> <strong>Intelligent Attendance Monitoring via Face Detection</strong></li>
+       
     </ul>
-- 🌱 I’m currently learning **DSA, Fullstack**
-
-- 💬 Ask me about **C++,PYTHON,JAVA, HTML,CSS,SQL**
+    
+- 💬 Ask me about **C++, C,Data Structures and Algorithms, HTML,CSS,SQL**
 
 - 📫 How to reach me **jayasrimethri@gmail.com**
 
