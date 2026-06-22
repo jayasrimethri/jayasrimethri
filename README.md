@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayasri Methri</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <h2>My Projects on GitHub</h2>
-
-        <li> <strong>Detecting and Tracking Objects in a video stream</strong></li>
-        <li> <strong>Intelligent Attendance Monitoring via Face Detection</strong></li>
-    </ul>
+     <ul><li> <strong>Detecting and Tracking Objects in a video stream</strong></li>
+        <li> <strong>Intelligent Attendance Monitoring via Face Detection</strong></li></ul>
+       
+    
     
 - 💬 Ask me about **C++, C,Data Structures and Algorithms, HTML,CSS,SQL**
 
